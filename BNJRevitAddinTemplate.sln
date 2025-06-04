@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BNJRevitAddinTemplate", "BNJRevitAddinTemplate.csproj", "{14D55359-B584-4097-A9E2-54483B19E55E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug_Revit2023|Any CPU = Debug_Revit2023|Any CPU
+		Debug_Revit2024|Any CPU = Debug_Revit2024|Any CPU
+		Debug_Revit2025|Any CPU = Debug_Revit2025|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release_Revit2023|Any CPU = Release_Revit2023|Any CPU
+		Release_Revit2024|Any CPU = Release_Revit2024|Any CPU
+		Release_Revit2025|Any CPU = Release_Revit2025|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14D55359-B584-4097-A9E2-54483B19E55E}.Debug_Revit2023|Any CPU.ActiveCfg = Debug_Revit2023|Any CPU
+		{14D55359-B584-4097-A9E2-54483B19E55E}.Debug_Revit2023|Any CPU.Build.0 = Debug_Revit2023|Any CPU
+		{14D55359-B584-4097-A9E2-54483B19E55E}.Debug_Revit2024|Any CPU.ActiveCfg = Debug_Revit2024|Any CPU
+		{14D55359-B584-4097-A9E2-54483B19E55E}.Debug_Revit2024|Any CPU.Build.0 = Debug_Revit2024|Any CPU
+		{14D55359-B584-4097-A9E2-54483B19E55E}.Debug_Revit2025|Any CPU.ActiveCfg = Debug_Revit2025|Any CPU
+		{14D55359-B584-4097-A9E2-54483B19E55E}.Debug_Revit2025|Any CPU.Build.0 = Debug_Revit2025|Any CPU
+		{14D55359-B584-4097-A9E2-54483B19E55E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14D55359-B584-4097-A9E2-54483B19E55E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14D55359-B584-4097-A9E2-54483B19E55E}.Release_Revit2023|Any CPU.ActiveCfg = Release_Revit2023|Any CPU
+		{14D55359-B584-4097-A9E2-54483B19E55E}.Release_Revit2023|Any CPU.Build.0 = Release_Revit2023|Any CPU
+		{14D55359-B584-4097-A9E2-54483B19E55E}.Release_Revit2024|Any CPU.ActiveCfg = Release_Revit2024|Any CPU
+		{14D55359-B584-4097-A9E2-54483B19E55E}.Release_Revit2024|Any CPU.Build.0 = Release_Revit2024|Any CPU
+		{14D55359-B584-4097-A9E2-54483B19E55E}.Release_Revit2025|Any CPU.ActiveCfg = Release_Revit2025|Any CPU
+		{14D55359-B584-4097-A9E2-54483B19E55E}.Release_Revit2025|Any CPU.Build.0 = Release_Revit2025|Any CPU
+		{14D55359-B584-4097-A9E2-54483B19E55E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14D55359-B584-4097-A9E2-54483B19E55E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>MyRevitAddin</Name>
+		<Assembly>"C:\Users\MEspadas\source\repos\BNJRevitAddinTemplate\bin\Debug_Revit2023\BNJRevitAddinTemplate.dll"</Assembly>
+		<AddInId>8D83D1A5-B739-4ACD-A9DB-74F0AC87CD15</AddInId>
+		<FullClassName>BNJRevitAddinTemplate.MainCommand</FullClassName>
+		<VendorId>Brandow and Johnston</VendorId>
+		<VendorDescription>Brandow and Johnston Me Design</VendorDescription>
+	</AddIn>
+	<AddIn Type="Application">
+		<Name>MyRevitAddin</Name>
+		<Assembly>"C:\Users\MEspadas\source\repos\BNJRevitAddinTemplate\bin\Debug_Revit2023\BNJRevitAddinTemplate.dll"</Assembly>
+		<FullClassName>BNJRevitAddinTemplate.App</FullClassName>
+		<ClientId>0A6C0BAA-A660-4713-B460-DA1CB5A9858F</ClientId>
+		<VendorId>com.YOUR COMPANY NAME</VendorId>
+		<VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+	</AddIn>
+</RevitAddIns>
