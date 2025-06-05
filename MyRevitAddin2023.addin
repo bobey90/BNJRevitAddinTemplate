@@ -13,7 +13,7 @@
 		<Assembly>"C:\Users\MEspadas\source\repos\BNJRevitAddinTemplate\bin\Debug_Revit2023\BNJRevitAddinTemplate.dll"</Assembly>
 		<FullClassName>BNJRevitAddinTemplate.App</FullClassName>
 		<ClientId>0A6C0BAA-A660-4713-B460-DA1CB5A9858F</ClientId>
-		<VendorId>com.YOUR COMPANY NAME</VendorId>
-		<VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+		<VendorId>Brandow and Johnston</VendorId>
+		<VendorDescription>Brandow and Johnston Me Design</VendorDescription>
 	</AddIn>
 </RevitAddIns>
